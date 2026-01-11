@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","367","get user details using GET API","chromium","2026-01-06","passed","2026-01-06","","apiTest.spec.ts","",""
+"","274","create user using POST API","chromium","2026-01-06","passed","2026-01-06","","apiTest.spec.ts","",""
+"","252","update user details using PUT API","chromium","2026-01-06","passed","2026-01-06","","apiTest.spec.ts","",""
+"","218","delete user using DELETE API","chromium","2026-01-06","passed","2026-01-06","","apiTest.spec.ts","",""

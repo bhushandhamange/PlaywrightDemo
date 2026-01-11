@@ -13,7 +13,7 @@ const testPages = baseTest.extend<pages>({
     },
     signInPage: async ({page}, use) => {
         await use (new SignInPage(page));
-    },
+    }
 });
 
 export const test = testPages;
